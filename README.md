@@ -28,4 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0088-merge-sorted-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Math
+|  |
+| ------- |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Greedy
+|  |
+| ------- |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
