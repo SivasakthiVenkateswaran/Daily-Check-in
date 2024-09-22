@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0088-merge-sorted-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -33,8 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
