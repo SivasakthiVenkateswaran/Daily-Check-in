@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0088-merge-sorted-array) |
+| [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0088-merge-sorted-array) |
+| [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Math
 |  |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
+## Binary Search
+|  |
+| ------- |
+| [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
 <!---LeetCode Topics End-->
