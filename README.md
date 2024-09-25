@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0089-gray-code) |
+| [0910-nth-magical-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0910-nth-magical-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -77,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0910-nth-magical-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0910-nth-magical-number) |
 | [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
 <!---LeetCode Topics End-->
