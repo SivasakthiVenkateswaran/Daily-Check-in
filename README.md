@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0234-palindrome-linked-list) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0908-middle-of-the-linked-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0087-scramble-string) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0793-swap-adjacent-in-lr-string) |
 ## Dynamic Programming
 |  |
 | ------- |
