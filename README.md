@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0088-merge-sorted-array) |
+| [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
 | [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -80,6 +82,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
 | [0910-nth-magical-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0910-nth-magical-number) |
 | [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
+## Depth-First Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
+## Matrix
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
