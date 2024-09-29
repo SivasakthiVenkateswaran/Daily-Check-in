@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0088-merge-sorted-array) |
 | [0500-keyboard-row](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0636-exclusive-time-of-functions) |
 | [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
 | [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0636-exclusive-time-of-functions) |
 ## Recursion
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
