@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0099-recover-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
@@ -115,4 +116,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0503-next-greater-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
