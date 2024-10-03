@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0086-partition-list) |
+| [0203-remove-linked-list-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
