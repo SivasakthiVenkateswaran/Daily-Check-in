@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0087-scramble-string) |
+| [0205-isomorphic-strings](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0205-isomorphic-strings) |
 | [0500-keyboard-row](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0205-isomorphic-strings) |
 | [0500-keyboard-row](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0500-keyboard-row) |
 | [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
 ## Binary Search
