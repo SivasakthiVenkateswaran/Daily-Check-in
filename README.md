@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0287-find-the-duplicate-number) |
 | [0500-keyboard-row](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0636-exclusive-time-of-functions) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0287-find-the-duplicate-number) |
 | [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
 | [0910-nth-magical-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0910-nth-magical-number) |
 | [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
