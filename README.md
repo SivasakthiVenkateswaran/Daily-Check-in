@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0500-keyboard-row](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0636-exclusive-time-of-functions) |
@@ -134,13 +135,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
