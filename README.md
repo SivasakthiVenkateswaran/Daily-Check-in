@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0205-isomorphic-strings) |
 | [0500-keyboard-row](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0091-decode-ways) |
 ## Array
 |  |
 | ------- |
