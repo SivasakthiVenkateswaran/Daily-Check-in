@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0636-exclusive-time-of-functions) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0347-top-k-frequent-elements) |
 | [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Math
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0347-top-k-frequent-elements) |
 | [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0500-keyboard-row) |
 | [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
 ## Binary Search
@@ -155,4 +159,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
