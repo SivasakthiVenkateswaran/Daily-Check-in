@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-swap-adjacent-in-lr-string](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0908-middle-of-the-linked-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0958-sort-array-by-parity-ii) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0958-sort-array-by-parity-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0347-top-k-frequent-elements) |
 | [0924-fair-candy-swap](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0958-sort-array-by-parity-ii) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Math
 |  |
