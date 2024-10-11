@@ -1,19 +1,26 @@
 class Solution {
     public int[] sortArrayByParityII(int[] nums) {
-        int[] result = new int[nums.length];
-        int evenIndex = 0;
-        int oddIndex = 1;
-
-        for (int num : nums) {
-            if (num % 2 == 0) {
-                result[evenIndex] = num;
-                evenIndex += 2;
-            } else {
-                result[oddIndex] = num;
-                oddIndex += 2;
-            }
+        if(nums.length<2)
+        {
+            return nums;
         }
-        
-        return result;
+        int temp;
+        int num[]=new int[nums.length];
+        int even=0,odd=1;
+        for(int i=0;i<nums.length;i++)
+        {
+            if(nums[i]%2==0)
+            {
+                num[even]=nums[i];
+                even=even+2;
+            }
+            else
+            {
+                num[odd]=nums[i];
+                odd=odd+2;
+            }
+
+        }
+        return num;
     }
 }
