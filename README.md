@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
