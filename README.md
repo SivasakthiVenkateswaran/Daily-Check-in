@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0091-decode-ways) |
+| [0863-sum-of-distances-in-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0863-sum-of-distances-in-tree) |
 ## Array
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0101-symmetric-tree) |
 | [0794-swim-in-rising-water](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0794-swim-in-rising-water) |
+| [0863-sum-of-distances-in-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0863-sum-of-distances-in-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0863-sum-of-distances-in-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0863-sum-of-distances-in-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0014-longest-common-prefix) |
+## Graph
+|  |
+| ------- |
+| [0863-sum-of-distances-in-tree](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0863-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
