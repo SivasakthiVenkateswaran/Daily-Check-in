@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-nth-magical-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0910-nth-magical-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0287-find-the-duplicate-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0234-palindrome-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
