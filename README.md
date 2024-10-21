@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/0347-top-k-frequent-elements) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SivasakthiVenkateswaran/Daily-Check-in/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Quickselect
 |  |
 | ------- |
